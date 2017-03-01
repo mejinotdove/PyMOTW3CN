@@ -7,3 +7,7 @@ Author: Doug Hellmann
 Link: https://pymotw.com/3/
 
 搬运并翻译 Python 3 Module of the Week 的内容。
+
+## 目录
+- [数据结构](https://github.com/mejinotdove/PyMOTW3CN/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+  - [collections - 容器数据类型](https://github.com/mejinotdove/PyMOTW3CN/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/collections
